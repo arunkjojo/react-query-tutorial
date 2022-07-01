@@ -1,0 +1,96 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Devil",
+      "alterEgo": "Arun",
+      "id": 4
+    },
+    {
+      "name": "Kurumbi",
+      "alterEgo": "Ann",
+      "id": 5
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Kurumbi"
+    },
+    {
+      "id": 2,
+      "name": "Chacks"
+    },
+    {
+      "id": 3,
+      "name": "Jo"
+    }
+  ],
+  "users": [
+    {
+      "id": "arunkjojo@example.com",
+      "channelId": "DevAJOincreation"
+    }
+  ],
+  "channels": [
+    {
+      "id": "DevAJOincreation",
+      "courses": [
+        "ReactJs",
+        "React Native",
+        "Node.JS",
+        "Next.JS",
+        "MongoDB",
+        "Axios API"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
